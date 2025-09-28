@@ -14,4 +14,5 @@ Predicts price based on car details (year, mileage, brand, fuel, etc.)
 
 Python, Pandas, NumPy
 
-Scikit-learn
+Scikit-learn,StreamLit
+
